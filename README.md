@@ -1,4 +1,5 @@
 # currency-cents
+![CI](https://github.com/FerrowAI/currency-cents/actions/workflows/ci.yml/badge.svg)
 
 Money as integer cents: parsing, formatting, arithmetic, and fair allocation without rounding loss.
 
