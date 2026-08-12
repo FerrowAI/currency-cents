@@ -1,0 +1,20 @@
+# currency-cents
+
+> Money as integer cents: parsing, formatting, arithmetic, and fair allocation without rounding loss.
+
+Work with money using integers (cents) to avoid float errors. Parse decimals, add/subtract/multiply, allocate fairly without losing pennies, format to strings. For invoices and payments.
+
+## API
+
+- `fromDecimal(str)` → number
+- `format(cents, opts?)` → string
+- `add(a, b)`, `subtract(a, b)`, `multiply(cents, scalar)`, `applyPercent(cents, percent)`
+- `allocate(total, ratios)` → number[]
+
+## Install
+
+```bash
+npm install currency-cents
+```
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
