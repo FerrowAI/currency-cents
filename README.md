@@ -22,7 +22,7 @@ export function applyPercent(cents: number, percent: number): number
 ## Install
 
 ```bash
-npm install currency-cents
+npm install @ferrow/currency-cents
 ```
 
 ## Quick Start

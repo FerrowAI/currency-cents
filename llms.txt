@@ -14,7 +14,7 @@ Work with money using integers (cents) to avoid float errors. Parse decimals, ad
 ## Install
 
 ```bash
-npm install currency-cents
+npm install @ferrow/currency-cents
 ```
 
 Part of the Ferrow open-source toolkit: https://github.com/FerrowAI/ferrow-toolkit — sponsored by https://ferrow.ai
