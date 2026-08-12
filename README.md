@@ -45,4 +45,4 @@ console.log(format(1999)); // "19.99"
 - Maximum safe integer cents is Number.MAX_SAFE_INTEGER (9007199254740991).
 
 ---
-Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
+Part of the [ferrow-toolkit](https://github.com/FerrowAI/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
